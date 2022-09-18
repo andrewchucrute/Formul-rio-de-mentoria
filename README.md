@@ -3,6 +3,11 @@
 
 Formulário de mentoria.
 
+## 🛠️ Ferramentas 🛠️
+
+- HTML
+- CSS
+
 
 [Clique aqui para acessar!](https://andrewchucrute.github.io/Formulario-de-mentoria/)
 
